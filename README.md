@@ -13,10 +13,10 @@ Written by:
 
 ## Installation
 
-Clone the repository
-Create a virtual environment
-Install the phonenumbers library
-Run the IP address on the browser
+- Clone the repository
+- Create a virtual environment
+- Install the phonenumbers library
+- Run the IP address on the browser
 
 ## Contact Information
 
